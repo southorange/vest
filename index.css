@@ -1,14 +1,3 @@
-/**
- * Dependencies.
- */
-
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
-
-/**
- * 1. Set default font family to sans-serif.
- * 2. Prevent iOS text size adjust after orientation change, without disabling
- *    user zoom.
- */
 
 html {
   font-family: sans-serif;
@@ -467,8 +456,8 @@ html {
 
 @font-face {
   font-family: 'Blanch Condensed';
-  src: url('http://duojs.org/build/lib/blanch/blanch-condensed-webfont.woff');
-  src: url('http://duojs.org/build/lib/blanch/blanch-condensed-webfont.woff') format('woff'),
+  src: url('https://duojs.org/build/lib/blanch/blanch-condensed-webfont.woff');
+  src: url('https://duojs.org/build/lib/blanch/blanch-condensed-webfont.woff') format('woff'),
   font-weight: normal;
   font-style: normal;
 }
