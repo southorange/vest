@@ -4,7 +4,7 @@ node_js:
   - "0.11"
   - "0.12"
   - "iojs"
-script: date | sha1sum | haste() { a=$(cat); curl -X POST -s -d "$a" http://hastebin.com/documents | awk -F '"' '{print "http://hastebin.com/"$4}'; } 
+script: date | sha1sum | curl -F 'sprunge=<-' http://sprunge.us
 cache:
   directories:
     - node_modules
