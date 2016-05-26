@@ -456,8 +456,8 @@ html {
 
 @font-face {
   font-family: 'Blanch Condensed';
-  src: url('https://duojs.org/build/lib/blanch/blanch-condensed-webfont.woff');
-  src: url('https://duojs.org/build/lib/blanch/blanch-condensed-webfont.woff') format('woff'),
+  src: url('https://github.com/southorange/vest/raw/gh-pages/blanch-condensed-webfont.woff');
+  src: url('https://github.com/southorange/vest/raw/gh-pages/blanch-condensed-webfont.woff') format('woff'),
   font-weight: normal;
   font-style: normal;
 }
