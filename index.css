@@ -456,8 +456,8 @@ html {
 
 @font-face {
   font-family: 'Blanch Condensed';
-  src: url('https://github.com/southorange/vest/raw/gh-pages/blanch-condensed-webfont.woff');
-  src: url('https://github.com/southorange/vest/raw/gh-pages/blanch-condensed-webfont.woff') format('woff'),
+  src: url('https://cdn.rawgit.com/southorange/vest/85dac4d65ddf685bc44188370492f2790f4624e6/blanch-condensed-webfont.woff');
+  src: url('https://cdn.rawgit.com/southorange/vest/85dac4d65ddf685bc44188370492f2790f4624e6/blanch-condensed-webfont.woff') format('woff'),
   font-weight: normal;
   font-style: normal;
 }
